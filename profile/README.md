@@ -1,4 +1,4 @@
 # LarrikinSports
 
-<img src="larrikinsport-logo.png">
+<img src="profile/larrikinsport-logo.png">
 
